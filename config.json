@@ -1,5 +1,5 @@
 {
-    "source_directory": "C:/temp/arena/source",
-    "good_directory": "C:/temp/arena/good",
-    "bad_directory": "C:/temp/arena/bad"
+    "source_directory": "path/to/your/source_directory",
+    "good_directory": "path/to/your/good_images",
+    "bad_directory": "path/to/your/bad_images"
 }
