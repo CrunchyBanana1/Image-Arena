@@ -16,6 +16,6 @@ A Python app that allows you to quickly compare images at random and sort them i
    pip install pillow
 3. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/CrunchyBanana1/Image-Arena.git
 4. Update config.json with your folder paths.
 5. Run the app by starting the Launch Arena.bat
